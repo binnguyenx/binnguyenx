@@ -7,34 +7,20 @@
 
 ---
 
-## 🙋 About me
-- 🛠️ I focus on backend engineering with Go.
-- 🌐 I am interested in distributed systems and infrastructure.
-- 📚 I am willing to learn and improve every day.
-- ⚽ Outside coding, I enjoy football.
-- 💙 Big fan of Chelsea FC.
+## 👨‍💻 Backend profile
+- Backend-focused engineer, building reliable and scalable services.
+- Strong in Go, and comfortable across the backend ecosystem beyond one language.
+- Interested in distributed systems and infrastructure with a production mindset.
+- Always learning, shipping, and improving engineering quality.
 
-## ✨ Highlights
-- 🧠 Backend-first mindset, strong focus on reliability
-- 🔄 Love designing services that scale and communicate well
-- ⚙️ Enjoy infra topics: deployment, monitoring, operations
-- 🏟️ Match day mood: Chelsea all the way
+## ✨ Why work with me
+- Design clear APIs and service boundaries.
+- Focus on performance, reliability, and observability.
+- Think in systems: architecture, operations, and long-term maintainability.
+- Fast learner with strong ownership and execution.
 
-## 🌱 Learning & growth
-- Distributed systems patterns and trade-offs
-- Cloud-native tooling and infrastructure automation
-- Writing cleaner, observable, production-ready Go services
-
-## 🚀 Focus areas
-- Backend APIs and service design
-- Distributed systems fundamentals
-- Infrastructure and deployment workflows
-- Performance, reliability, and observability
-
-## 🏆 Experience & programs
-- Building backend mini-projects with Go
-- Practicing system design and service architecture
-- Continuously sharpening problem-solving and debugging skills
+## ⚽ Personal touch
+- Football lover and proud Chelsea fan 💙
 
 ## 🧰 Tech stack
 <p>
