@@ -52,12 +52,6 @@
 - Facebook: [facebook.com/binnguynx](https://www.facebook.com/binnguynx)
 - LinkedIn: [linkedin.com/in/mtrietnguyen](https://www.linkedin.com/in/mtrietnguyen/)
 
-## 📊 GitHub stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=binnguyenx&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=binnguyenx&theme=radical" />
-</p>
-
 ---
 
 <p align="center">⚡ Building cool backend things, one commit at a time.</p>
