@@ -12,12 +12,29 @@
 - 🌐 I am interested in distributed systems and infrastructure.
 - 📚 I am willing to learn and improve every day.
 - ⚽ Outside coding, I enjoy football.
+- 💙 Big fan of Chelsea FC.
+
+## ✨ Highlights
+- 🧠 Backend-first mindset, strong focus on reliability
+- 🔄 Love designing services that scale and communicate well
+- ⚙️ Enjoy infra topics: deployment, monitoring, operations
+- 🏟️ Match day mood: Chelsea all the way
+
+## 🌱 Learning & growth
+- Distributed systems patterns and trade-offs
+- Cloud-native tooling and infrastructure automation
+- Writing cleaner, observable, production-ready Go services
 
 ## 🚀 Focus areas
 - Backend APIs and service design
 - Distributed systems fundamentals
 - Infrastructure and deployment workflows
 - Performance, reliability, and observability
+
+## 🏆 Experience & programs
+- Building backend mini-projects with Go
+- Practicing system design and service architecture
+- Continuously sharpening problem-solving and debugging skills
 
 ## 🧰 Tech stack
 <p>
