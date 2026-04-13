@@ -1,43 +1,22 @@
-<h1 align="center">⚽ Hi, I'm binnguyenx</h1>
-<h3 align="center">Backend engineer in training - building reliable and scalable systems</h3>
+## 👋 Hey, I'm binnguyenx
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+%7C+Distributed+Systems+%7C+Infra;Language-agnostic+engineer+mindset;Football+lover+%E2%9A%BD+%2B+System+thinking+mindset;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
+⚙️ Backend-focused engineer who likes building reliable, scalable systems.  
+🌐 Interested in distributed systems, infrastructure, and production-ready services.  
+🚀 Early-career generalist mindset: learn fast, adapt fast, ship fast.  
+⚽ Chelsea fan when not coding.
 
----
-
-## 👨‍💻 Backend profile
-- Backend-focused engineer, building reliable and scalable services.
-- Comfortable with Go and the broader backend ecosystem, not limited to one language.
-- Interested in distributed systems and infrastructure with a production mindset.
-- Always learning, shipping, and improving engineering quality.
-
-## ✨ Why work with me
-- Design clear APIs and service boundaries.
-- Focus on performance, reliability, and observability.
-- Think in systems: architecture, operations, and long-term maintainability.
-- Fast learner with strong ownership and execution.
-
-## ⚽ Personal touch
-- Football lover and proud Chelsea fan 💙
-
-## 🧰 Tech stack
+## 💻 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/-Docker-111?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-111?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-111?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Redis-111?style=for-the-badge&logo=redis" />
-  <img src="https://img.shields.io/badge/-Linux-111?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/-Git-111?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-Go-111?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## 📫 Connect with me
+## 🌐 Socials
 - Email: `binnguynx@gmail.com`
-- Facebook: [facebook.com/binnguynx](https://www.facebook.com/binnguynx)
 - LinkedIn: [linkedin.com/in/mtrietnguyen](https://www.linkedin.com/in/mtrietnguyen/)
-
----
-
-<p align="center">⚡ Building cool backend things, one commit at a time.</p>
+- Facebook: [facebook.com/binnguynx](https://www.facebook.com/binnguynx)
