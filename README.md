@@ -1,4 +1,4 @@
-## 👋 Hey, I'm binnguyenx
+## 👋 Hey, I'm Minh Triet.
 
 ⚙️ Backend-focused engineer who likes building reliable, scalable systems.  
 🌐 Interested in distributed systems, infrastructure, and production-ready services.  
