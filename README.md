@@ -3,7 +3,9 @@
 ⚙️ Backend-focused engineer who likes building reliable, scalable systems.  
 🌐 Interested in distributed systems, infrastructure, and production-ready services.  
 🚀 Early-career generalist mindset: learn fast, adapt fast, ship fast.  
-⚽ Chelsea fan when not coding.
+⚽ Chelsea fan when not coding.  
+📚 Enjoy reading — always learning off-screen.  
+💪 Hit the gym to stay consistent, same mindset as building systems.
 
 ## 💻 Tech Stack
 <p>
