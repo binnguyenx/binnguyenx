@@ -1,11 +1,8 @@
 ## 👋 Hey, I'm Minh Triet.
 
-⚙️ Backend engineer building reliable, scalable systems, and lately the infra AI agents run on.  
-🤖 Into AI agents: tool use, orchestration, and making them dependable enough for production.  
-🌐 Distributed systems, infrastructure, and services that stay up.  
-🔓 Open source contributor: I read the source, file the issue, and send the PR.  
-🚀 Learn fast, adapt fast, ship fast.  
-💼 Previously SWE @ Viettel Solutions.  
+⚙️ Backend engineer building distributed systems and the infra AI agents run on, dependable enough for production.  
+🔓 I love open source.  
+💼 SWE @ Viettel Solutions.  
 ⚽ Chelsea fan · 📚 Reader · 💪 Gym regular
 
 ## 🔓 Open Source
