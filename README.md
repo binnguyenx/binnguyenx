@@ -15,6 +15,12 @@ Merged contributions to projects in the AI and infra stack:
 |---|---|
 | [qdrant/qdrant](https://github.com/qdrant/qdrant) · vector database, ★35k | [Reject empty sparse vector names when adding a vector to an existing collection](https://github.com/qdrant/qdrant/pull/11743) |
 
+## 🛠️ Projects
+**[Cranial](https://github.com/binnguyenx/hack-princeton)**: an AI-assisted 3D workspace for designing cranial implants, built at HackPrinceton.
+- 🤖 LangGraph Deep Agent on AWS Bedrock, with research and case-report subagents. It uses read-only measurement tools, and a human approves every change.
+- 🧠 3D U-Net that predicts the missing bone, served on SageMaker async inference (mean Dice 0.811 on held-out cases)
+- ⚙️ FastAPI backend with revision-checked commits, and a React + Three.js editor
+
 ## 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
