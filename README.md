@@ -1,12 +1,19 @@
 ## 👋 Hey, I'm Minh Triet.
 
-⚙️ Backend-focused engineer who likes building reliable, scalable systems.  
-🌐 Interested in distributed systems, infrastructure, and production-ready services.  
-🚀 Early-career generalist mindset: learn fast, adapt fast, ship fast.  
-💼 Currently working as SWE at Viettel Solutions.  
-⚽ Chelsea fan when not coding.  
-📚 Enjoy reading — always learning off-screen.  
-💪 Hit the gym to stay consistent, same mindset as building systems.
+⚙️ Backend engineer building reliable, scalable systems, and lately the infra AI agents run on.  
+🤖 Into AI agents: tool use, orchestration, and making them dependable enough for production.  
+🌐 Distributed systems, infrastructure, and services that stay up.  
+🔓 Open source contributor: I read the source, file the issue, and send the PR.  
+🚀 Learn fast, adapt fast, ship fast.  
+💼 Previously SWE @ Viettel Solutions.  
+⚽ Chelsea fan · 📚 Reader · 💪 Gym regular
+
+## 🔓 Open Source
+Merged contributions to projects in the AI and infra stack:
+
+| Project | Contribution |
+|---|---|
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) · vector database, ★35k | [Reject empty sparse vector names when adding a vector to an existing collection](https://github.com/qdrant/qdrant/pull/11743) |
 
 ## 💻 Tech Stack
 <p>
